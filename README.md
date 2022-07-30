@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angshu
-- 👀 I’m interested in Data Science, finding data driven solutions.
-- 🌱 I’m currently learning Intermediate level Statistics and ML concepts.
+- 👀 I’m interested in Data Science field and finding data driven solutions.
+- 🌱 I’m currently learning Intermediate level Statistics and various ML concepts.
 - 💞️ I’m looking to collaborate on any Data driven AI projects or related researchers.
 - 📫 How to reach me ... Email: angshubmandol@gmail.com
 

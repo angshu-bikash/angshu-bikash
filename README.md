@@ -1,15 +1,13 @@
-<a href="https://www.linkedin.com/in/angshu-bikash/">
-  <img align="left" alt="Angshu's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<a href="https://www.linkedin.com/in/angshu-bikash/"> Angshu-Linkedin </a>
 
 <br />
 
 
 - 👋 Hi, I’m Angshu
 - 👀 I’m interested in Data Science field and finding data driven solutions.
-- 🤔 I’m looking for help regarding Higher Studies.
+- 🤔 I’m looking for help to structure my learning goals to find my dream job
 - 🌱 I’m currently learning Intermediate level Statistics and ML concepts.
-- 💞️ I’m looking to collaborate on any Data driven HCI/ML/AI projects or related researches.
+- 💞️ I’m looking to collaborate on any Data driven AI/IoT/HCI projects or related researches.
 - 📫 How to reach me ... Email: angshubmandol@gmail.com
 - browse my website: https://sites.google.com/view/angshu-bikash-mandal/home?authuser=0 
 

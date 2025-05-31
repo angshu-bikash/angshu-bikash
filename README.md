@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning Intermediate level Statistics and ML concepts.
 - 💞️ I’m looking to collaborate on any Data driven AI/IoT/HCI projects or related researches.
 - 📫 How to reach me ... Email: angshubmandol@gmail.com
-- browse my website: https://sites.google.com/view/angshu-bikash-mandal/home?authuser=0 
 
 <!---
 angubaba/angubaba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
